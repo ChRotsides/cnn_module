@@ -1,0 +1,27 @@
+{
+  "name": "cnn",
+  "version": "1.0.0",
+  "description": "Convolutional Neural Network module",
+  "main": "cnn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhampis/cnn_module.git"
+  },
+  "keywords": [
+    "cnn",
+    "module",
+    "Convolutional Neural Network"
+  ],
+  "author": "lhampis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhampis/cnn_module/issues"
+  },
+  "homepage": "https://github.com/lhampis/cnn_module#readme",
+  "dependencies": {
+    "mathjs": "^5.1.1"
+  }
+}
